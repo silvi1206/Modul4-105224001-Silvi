@@ -11,9 +11,4 @@
 
     }
 }
-public class mahasiswa {
-    public static void main(String[] args) throws Exception {
-        student student1 = new student("Silviana", 19, "Ilmu komputer");
-    }
-}
 
